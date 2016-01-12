@@ -1,0 +1,28 @@
+name: David Tran
+favicon: null
+layout_spectrum: 0.14673796412535012
+typography_spectrum: 0.4093300614040345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4907577778212726
+  lightness: 0.6468664340209216
+  saturation: 0.31642017839476466
+  rhythmicContrast: 0.8717764581087977
+purpose: []
