@@ -1,7 +1,7 @@
 name: David Tran
 favicon: null
-layout_spectrum: 0.14673796412535012
-typography_spectrum: 0.4093300614040345
+layout_spectrum: 1
+typography_spectrum: 0.29247
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.4907577778212726
-  lightness: 0.6468664340209216
-  saturation: 0.31642017839476466
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.3125
   rhythmicContrast: 0.8717764581087977
 purpose: []
